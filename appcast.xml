@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Everydaymoney Updates</title>
+    <item>
+        <title>Version 2.5.4</title>
+        <description>Minor updates and improvements.</description>
+        <pubDate>Fri, 16 Feb 2026 06:00:11 +0000</pubDate>
+        <enclosure 
+            url="market://details?id=com.everydaymoney.ng" 
+            sparkle:version="2.5.4" 
+            sparkle:os="android" />
+        <sparkle:tags>
+            <sparkle:criticalUpdate />
+        </sparkle:tags>
+    </item>
+    <item>
+        <title>Version 2.5.4</title>
+        <description>Minor updates and improvements.</description>
+        <pubDate>Mon, 16 Feb 2026 06:00:11 +0000</pubDate>
+        <enclosure 
+            url="itms-apps://apps.apple.com/app/id6447964788" 
+            sparkle:version="2.5.4" 
+            sparkle:os="iOS" />
+        <sparkle:tags>
+            <sparkle:criticalUpdate />
+        </sparkle:tags>
+        <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+    </item>
+  </channel>
+</rss>
