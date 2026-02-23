@@ -3,16 +3,16 @@
   <channel>
     <title>Everydaymoney Updates</title>
     <item>
-        <title>Version 2.5.4</title>
+        <title>Version 2.5.5</title>
         <description>Minor updates and improvements.</description>
         <pubDate>Fri, 16 Feb 2026 06:00:11 +0000</pubDate>
         <enclosure 
             url="market://details?id=com.everydaymoney.ng" 
-            sparkle:version="2.5.4" 
+            sparkle:version="2.5.5" 
             sparkle:os="android" />
-        <sparkle:tags>
+        <!-- <sparkle:tags>
             <sparkle:criticalUpdate />
-        </sparkle:tags>
+        </sparkle:tags> -->
     </item>
     <item>
         <title>Version 2.5.4</title>
